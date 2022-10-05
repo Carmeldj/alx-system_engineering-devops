@@ -1,0 +1,1 @@
+This script contain thz absolute path name of the current directory
