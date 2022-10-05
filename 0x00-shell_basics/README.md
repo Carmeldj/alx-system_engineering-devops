@@ -16,4 +16,7 @@ This directory contain different scripts for shell basics command
 7. Betty in my first directory
    This script contain the shell command to move file betty from /tmp to /tmp/my_first directory
 8. Bye bye Betty
-   THis script contain the shell command to delete betty in /tmp/my_first_directory
+   This script contain the shell command to delete betty in /tmp/my_first_directory
+9. Bye bye my first directory
+   This script contain the shell command to delete the directory my_first_directory
+   
