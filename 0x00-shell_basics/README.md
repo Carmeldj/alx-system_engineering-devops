@@ -7,5 +7,7 @@ This directory contain different scripts for shell basics command
    This script contain the shell command to bring back to home
 3. The long format
    This script contain the shell command to display the current contents in a long format
-4. I love numbers
+4. Hidden files
    This script contain the shell command to display the current directory contents include hidden files
+5. I love numbers
+   This script contain the shell command to display the fles in digits 
