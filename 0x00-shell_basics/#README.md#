@@ -10,6 +10,4 @@ This directory contain different scripts for shell basics command
 4. Hidden files
    This script contain the shell command to display the current directory contents include hidden files
 5. I love numbers
-   This script contain the shell command to display the fles in digits
-6. Welcome
-   This script contain the shell command to create a directory in /tmp directory
+   This script contain the shell command to display the fles in digits 
