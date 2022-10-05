@@ -25,3 +25,7 @@ This directory contain different scripts for shell basics command
     This script contain the shell command to lits files
 12. File type
     This script contain the shell command to print the type of a file iamafile
+13. We are symbols, and inhabit symbols
+    This script contain the shell command for create symbolic link
+14. Copy HTML files
+    This script contain the shell command for copying all html file 
