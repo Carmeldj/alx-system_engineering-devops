@@ -13,3 +13,6 @@ This directory contain different scripts for shell basics command
    This script contain the shell command to display the fles in digits
 6. Welcome
    This script contain the shell command to create a directory in /tmp directory
+7- Betty in my first directory
+   This script contain the shell command to move file betty from /tmp to /tmp/my_first directory
+   
