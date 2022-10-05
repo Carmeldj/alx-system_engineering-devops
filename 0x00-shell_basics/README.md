@@ -20,5 +20,6 @@ This directory contain different scripts for shell basics command
 9. Bye bye my first directory
    This script contain the shell command to delete the directory my_first_directory
 10. Back to the futur
-    This script contain the shell comand to changes the working directory to the previous one
-    
+    This script contain the shell command to changes the working directory to the previous one
+11. Lists
+    This script contain the shell command to lits files
