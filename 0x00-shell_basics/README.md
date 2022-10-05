@@ -23,3 +23,5 @@ This directory contain different scripts for shell basics command
     This script contain the shell command to changes the working directory to the previous one
 11. Lists
     This script contain the shell command to lits files
+12. File type
+    This script contain the shell command to print the type of a file iamafile
