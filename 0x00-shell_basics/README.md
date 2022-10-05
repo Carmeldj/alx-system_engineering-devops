@@ -19,4 +19,6 @@ This directory contain different scripts for shell basics command
    This script contain the shell command to delete betty in /tmp/my_first_directory
 9. Bye bye my first directory
    This script contain the shell command to delete the directory my_first_directory
-   
+10. Back to the futur
+    This script contain the shell comand to changes the working directory to the previous one
+    
